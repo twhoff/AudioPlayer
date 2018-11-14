@@ -19,6 +19,7 @@ The app makes using of Material-UI, however, it should be noted that this is the
 ### Improvements
 - Implement last core feature and optional features listed in the project plan
 - Improve the UI and make it responsive
+- Need to make much better use of comments, PropTypes and tests (there are none right now)
 
 ## Backend
 
