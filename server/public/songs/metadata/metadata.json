@@ -1,0 +1,43 @@
+{
+    "songs": [{
+            "id": 1,
+            "artist": "Metallica",
+            "albumn": "Master Of Puppets",
+            "title": "Welcome Home (Sanitarium)",
+            "length": 388,
+            "genre": "Rock",
+            "style": ["Thrash", "Speed Metal"],
+            "year": 1986,
+            "albumnCover": "https://img.discogs.com/HSuP6Uqx1DYkX7V9h3o2cC_AV6o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1549636-1265948094.jpeg.jpg",
+            "albumnCoverThumb": "https://img.discogs.com/nypNrYyMw4BZc11Cij4z39BgPM0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1549636-1265948094.jpeg.jpg",
+            "trackNumber": 4,
+            "sources": [{
+                "file": "04 Welcome Home (Sanitarium) 3.mp3",
+                "path": "./public/songs",
+                "type": "audio/mp3"
+            }],
+            "userPlays": 56,
+            "allUserPlays": 2143
+        },
+        {
+            "id": 2,
+            "artist": "Rage Against the Machine",
+            "albumn": "Renegades",
+            "title": "Kick Out The Jams",
+            "length": 192,
+            "genre": "Rock",
+            "style": ["Heavy Metal"],
+            "year": 2000,
+            "albumnCover": "https://img.discogs.com/PYfHrXiHln-eHimrK5f8yBWYd6k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4204688-1358481231-3794.jpeg.jpg",
+            "albumnCoverThumb": "https://img.discogs.com/SLcaIIiplKpJgxj6rYmkzqUaRUk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4204688-1358481231-3794.jpeg.jpg",
+            "trackNumber": 3,
+            "sources": [{
+                "file": "03 Kick Out The Jams 2.mp3",
+                "path": "./public/songs",
+                "type": "audio/mp3"
+            }],
+            "userPlays": 56,
+            "allUserPlays": 2143
+        }
+    ]
+}
