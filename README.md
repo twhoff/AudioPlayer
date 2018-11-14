@@ -6,6 +6,12 @@ The player consists of a separate `frontend` and `server` (backend) application.
 Please see `PROJECTPLAN.md` to get an idea of the planned functionality of the player / backend.
 
 ## Frontend
+
+Please navigate to the `frontend` folder and start the frontend using:
+```
+npm start
+```
+
 The frontend is a simple React application, utilising Redux and implementing a simple Ducks pattern for scalability.
 
 The app makes using of Material-UI, however, it should be noted that this is the first time I have used it, and so I have not had time to study the docs very thoroughly.
@@ -16,7 +22,7 @@ The app makes using of Material-UI, however, it should be noted that this is the
 
 ## Backend
 
-Please navigate to the backend folder and start the server using:
+Please navigate to the `server` folder and start the server using:
 ```
 npm start
 ```
