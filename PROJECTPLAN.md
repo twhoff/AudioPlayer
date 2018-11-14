@@ -12,21 +12,21 @@ App which serves as a player to play audio files in a browser.
 - prop-types
 
 ### Core features / behaviour
-- Songs are lazy loaded
-- Songs are streamed and buffered
-- User can play and pause current song
-- User can skip to next song or previous song (double click back)
-- User can see list of all available songs
-- User can select any song from list to play
+- (X) Songs are lazy loaded
+- (X) Songs are streamed and buffered
+- (X) User can play and pause current song
+- ( ) User can skip to next song or previous song (double click back)
+- (X) User can see list of all available songs
+- (X) User can select any song from list to play
 
 ### Additional features / behaviour
-- User can skip current playback forward or backwards by 10 seconds
-- User can login and save favorite songs
-- User can create customised playlists
-- Users can share favorites songs and playlists with other users
-- Users can add other users as "friends"
-- Users can see what their friends are listening to
-- Users can see how many times a song has been played (by themselves and in total)
+- ( ) User can skip current playback forward or backwards by 10 seconds
+- ( ) User can login and save favorite songs
+- ( ) User can create customised playlists
+- ( ) Users can share favorites songs and playlists with other users
+- ( ) Users can add other users as "friends"
+- ( ) Users can see what their friends are listening to
+- ( ) Users can see how many times a song has been played (by themselves and in total)
 
 # Backend
 
